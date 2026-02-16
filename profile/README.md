@@ -16,8 +16,8 @@
 |--------|------|--------|
 | **Wael Qubaisi** | CO-Founder & Lead Programmer | [@Waelaaq](https://github.com/Waelaaq) |
 | **Faihan Rubayan** | CO-Founder & manager | [@rubaian](https://github.com/rubaian) |
-| **Ali Alqahtani** | Developer | [@cealit164](https://github.com/cealit164) |
-| **Osama Almana** | Game Director | 
+| **Ali Alqahtani** | CO-Founder & Developer | [@cealit164](https://github.com/cealit164) |
+| **Osama Almana** | CO-Founder & Game Director | 
 
 ---
 
