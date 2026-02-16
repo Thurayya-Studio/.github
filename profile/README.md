@@ -122,7 +122,7 @@ At Thurayya Studio, we believe in:
 Stay updated with our development progress:
 
 -  [Steam Page](https://store.steampowered.com/app/3905840)
--  [LinkedIn - Wael Qubaisi](https://linkedin.com/in/wael-qubaisi-08874733a)
+-  [LinkedIn - Thurayya Studio](https://www.linkedin.com/company/thurayya-studio/)
 -  [GitHub - Thurayya Studio](https://github.com/Thurayya-Studio)
 
 ---
@@ -131,7 +131,7 @@ Stay updated with our development progress:
 
 Interested in collaborating or have questions?
 
-- **Email**: waelQubaisi@hotmail.com
+- **Email**: thurayyastudio@gmail.com
 - **Location**: Khobar, Saudi Arabia
 
 ---
